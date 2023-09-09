@@ -21,7 +21,7 @@ export const Navbar = () => {
                 height={70} />
             <NextLink href="/" passHref>
                 <span color="white">P</span>
-                <span color="white">okemón</span>
+                <span color="white">okemón!</span>
             </NextLink>
             <Spacer style={ { flex: 1 } } />
             <NextLink href="/favorites" passHref>
